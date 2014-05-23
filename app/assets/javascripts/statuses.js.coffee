@@ -6,7 +6,7 @@
 # Toggle is used for .status event trigger.  See statuses.css.scss
 $ ->
 	$('.status').hover (event) ->
-		$(this).toggleClass("hover")
+		$(this).toggleClass("lubber")
 
 
 
